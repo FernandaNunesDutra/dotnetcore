@@ -1,0 +1,14 @@
+/home/fernanda/Documentos/Projetos/dotnetcore/bin/Debug/netcoreapp2.2/dotnetcore.deps.json
+/home/fernanda/Documentos/Projetos/dotnetcore/bin/Debug/netcoreapp2.2/dotnetcore.runtimeconfig.json
+/home/fernanda/Documentos/Projetos/dotnetcore/bin/Debug/netcoreapp2.2/dotnetcore.runtimeconfig.dev.json
+/home/fernanda/Documentos/Projetos/dotnetcore/bin/Debug/netcoreapp2.2/dotnetcore.dll
+/home/fernanda/Documentos/Projetos/dotnetcore/bin/Debug/netcoreapp2.2/dotnetcore.pdb
+/home/fernanda/Documentos/Projetos/dotnetcore/obj/Debug/netcoreapp2.2/dotnetcore.csprojAssemblyReference.cache
+/home/fernanda/Documentos/Projetos/dotnetcore/obj/Debug/netcoreapp2.2/dotnetcore.csproj.CoreCompileInputs.cache
+/home/fernanda/Documentos/Projetos/dotnetcore/obj/Debug/netcoreapp2.2/dotnetcore.RazorAssemblyInfo.cache
+/home/fernanda/Documentos/Projetos/dotnetcore/obj/Debug/netcoreapp2.2/dotnetcore.RazorAssemblyInfo.cs
+/home/fernanda/Documentos/Projetos/dotnetcore/obj/Debug/netcoreapp2.2/dotnetcore.AssemblyInfoInputs.cache
+/home/fernanda/Documentos/Projetos/dotnetcore/obj/Debug/netcoreapp2.2/dotnetcore.AssemblyInfo.cs
+/home/fernanda/Documentos/Projetos/dotnetcore/obj/Debug/netcoreapp2.2/dotnetcore.RazorTargetAssemblyInfo.cache
+/home/fernanda/Documentos/Projetos/dotnetcore/obj/Debug/netcoreapp2.2/dotnetcore.dll
+/home/fernanda/Documentos/Projetos/dotnetcore/obj/Debug/netcoreapp2.2/dotnetcore.pdb
